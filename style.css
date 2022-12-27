@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button{
+    color:white;
+font-size: bold;
+border: none;
+padding-top: 10px;
+padding-bottom: 10px;
+width: 200px;
+margin-bottom: 5px;
+border-radius: 5px;
+}
+h2{
+color: black;
+margin-top: 0px;
+margin-bottom: 20px;
+font-size: 50px;
+}
+body {
+    background-image: url("C:\Users\chimenw\Desktop\blockchain training\enter.JPG");
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+    background-color: brown;
+}
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid;
+    border-radius: 10px;
+
+}
+#increment-btn{
+background: darkgreen;
+}
+#save-btn{
+    background: darkgreen;
+}
